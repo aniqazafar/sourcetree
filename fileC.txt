@@ -1,2 +1,5 @@
 ghik
 another file from developer
+
+---------IMPORTANT-----------
+bug fixed by another developer
